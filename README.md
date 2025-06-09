@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/126e0500-5b31-49aa-9b97-0b745ad7b685
+
 # 🌟 Particle Physics Simulator
 
 Un simulator interactiv de particule fizice dezvoltat în C# cu Windows Forms, care permite utilizatorilor să creeze și să manipuleze particule cu diferite proprietăți fizice în timp real.
