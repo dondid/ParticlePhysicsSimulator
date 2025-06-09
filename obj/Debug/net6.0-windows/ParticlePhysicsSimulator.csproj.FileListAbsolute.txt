@@ -1,0 +1,14 @@
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\obj\Debug\net6.0-windows\ParticlePhysicsSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\obj\Debug\net6.0-windows\ParticlePhysicsSimulator.AssemblyInfoInputs.cache
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\obj\Debug\net6.0-windows\ParticlePhysicsSimulator.AssemblyInfo.cs
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\obj\Debug\net6.0-windows\ParticlePhysicsSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\bin\Debug\net6.0-windows\ParticlePhysicsSimulator.exe
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\bin\Debug\net6.0-windows\ParticlePhysicsSimulator.deps.json
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\bin\Debug\net6.0-windows\ParticlePhysicsSimulator.runtimeconfig.json
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\bin\Debug\net6.0-windows\ParticlePhysicsSimulator.dll
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\bin\Debug\net6.0-windows\ParticlePhysicsSimulator.pdb
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\obj\Debug\net6.0-windows\ParticlePhysicsSimulator.dll
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\obj\Debug\net6.0-windows\refint\ParticlePhysicsSimulator.dll
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\obj\Debug\net6.0-windows\ParticlePhysicsSimulator.pdb
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\obj\Debug\net6.0-windows\ParticlePhysicsSimulator.genruntimeconfig.cache
+C:\Users\Daniel\RiderProjects\ParticlePhysicsSimulator\obj\Debug\net6.0-windows\ref\ParticlePhysicsSimulator.dll

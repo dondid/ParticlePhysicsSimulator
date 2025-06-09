@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyTitle>Particle Physics Simulator</AssemblyTitle>
+    <AssemblyDescription>Interactive particle physics simulation with real-time controls</AssemblyDescription>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Company>Your Company</Company>
+    <Product>Particle Physics Simulator</Product>
+    <Copyright>Copyright © 2025</Copyright>
+  </PropertyGroup>
+
+</Project>
